@@ -20,7 +20,8 @@ const Navbar = () => {
             </ul>
       </div>
       <div className='icon'>
-        <h2>signup</h2>
+       <img src='icons/profile-user.png' alt='icon'/>
+       <img src='icons/search.png' alt='icon'/>
       </div>
 
     </div>

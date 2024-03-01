@@ -10,7 +10,7 @@ const Home = () => {
           <button>Discover More</button>
         </div>
         <div className='sec2'>
-        <img src='./pooja/public/pics/Lovepik_com-402517730-creative-c4d-tourism-suspended-element-3d-model.png'/>
+        {/* <img src='pics/Lovepik_com-402517730-creative-c4d-tourism-suspended-element-3d-model.png' alt='homeimage'/> */}
         </div>
 
     </div>
